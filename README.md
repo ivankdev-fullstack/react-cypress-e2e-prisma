@@ -1,6 +1,6 @@
 ## About
 
-React application based on Cypress e2e tests to operate with basis user auth and creating `takeaways`.
+React application based on Cypress e2e tests to operate with basic user auth and creating `takeaways`.
 
 ### Technical Stack
 
